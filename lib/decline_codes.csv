@@ -1,0 +1,98 @@
+﻿0001,Caution account
+0002,Closed account
+0003,Arrest
+0004,Pick-up (Fraud Code - F1)
+0005,Transferred Account
+0006,Lost card - pending transfer
+0007,Card expired
+0008,Chargeoff account
+0016,Account coded M9 - Closed
+0020,"Account coded FA, Fraud"
+0029,"Account coded B9, Closed misc"
+0030,"Account coded W1, Liability"
+0031,Account coded (Credit rating)
+0032,Currently past due 1+ day
+0033,Currently past due 31+ days
+0034,Currently past due 61+ days
+0035,Currently past due 91+ days
+0036,Zero balance
+0037,Caution ZIP Code
+0039,Exceeds spending limit
+0040,Past due 121-150 currently
+0041,Past due 151-180 currently
+0042,Past due 181-210 currently
+0043,Past due 211 - 240 currently
+0044,Past due 241-270 currently
+0045,Past due 271-300 currently
+0046,Past due 301-330 currently
+0048,Not enough available money
+,
+0049,Excessive declined authorizations today
+0058,Exceeds credit limit
+0080,Coded B1
+0084,Over limit
+0085,Past due
+0091,Single purchase limit exceeded
+0092,Number of monthly transactions exceeded
+0093,Number of daily transactions exceeded
+0098,Closed
+0101,Merchant suspicious
+0103,Invalid card/account
+0104,Less than minimum cash advance
+0105,Exceeds maximum cash advance
+0106,Exceeds maximum purchase limit
+0107,Exceeds maximum mail order limit
+0108,Suspicious activity
+0109,PIN not allowed
+0110,Checking/savings not allowed
+0111,Invalid PIN
+0112,Exceeds ATM daily limit
+0113,Exceeds number of ATM transactions for the day
+0114,Exceeds bad PIN limit
+0115,Transaction amount less than ATM minimum
+0116,"Transaction $5,000 or over"
+0119,Exceeds number of authorizations for the day
+0120,Exceeds amount of authorizations for the day
+0121,Exceeds amount of cash available for the day
+0124,Invalid CVV2/CVC2 value (3 digit code on back of card)
+0126,Payment exceeds available
+,
+0127,Exceeds daily number cash
+0128,Exceeds daily amount cash
+0129,Exceeds number purchase per day
+0130,Exceeds amount purchase per day
+0134,Card activation
+0135,Unable to verify PIN at this time
+0158,Exceeds cash limit
+0177,Exceeds bad PINs POS
+0178,Exceeds bad PINs ATM
+0179,Exceeds bad PINs ALL
+0207,Invalid expiration date
+0209,Spending limit exceeded
+0210,Cash spending limit exceeded
+0802,Card not effective (either no activated or expiration date input wrong)
+0803,MCC group range excluded at individual account level
+0805,Exceeds single transaction limit for account
+0806,Exceeds single transaction limit for vendor
+0808,Exceeds single transaction limit for MCC group at individual account level
+0809,Exceeds single transaction limit for MCC group at corporate account level
+0810,Exceeds available with Pad.
+,
+0813,Exceeds limit for account transaction amount/Exceeds limit for total transaction amount for the velocity
+0814,Exceeds account limit for number of transactions received /Exceeds limit for number of transactions received at account level
+0817,Exceeds limit for number of transactions for individual MCC group range /Exceeds limit for total number of transactions that match
+0818,Exceeds amount limit for transactions that match individual MCC group range
+,
+0819,Exceeds limit for number of transactions that match corporate MCC group range
+0820,Exceeds amount limit for transactions that match corporate MCC group range
+0821,Monetary amount is less than the account single purchase limit
+,
+0822,Authorization amount does not equal the account single purchase limit or the monetary amount for the combined corporate accou
+0823,No match found for individual account with MCC group marked include
+,
+0824,No match found for corporate account with MCC group marked include
+,
+0825,MCC group range excluded at corporate account level
+0826,MCC group range marked for referral
+0850,Bank Request Fraud Strategy 1
+0871,Declined by Score 2
